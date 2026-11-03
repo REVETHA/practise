@@ -4,5 +4,5 @@ import static org.junit.Assert.assertEquals;
 public class AppTest{
 @Test
 public void testGetMessage(){
-assertEquals("Hello, this is maven demo project updated", App.getMessage());
+assertEquals("Hello, this is maven demo project", App.getMessage());
 }}
